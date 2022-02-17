@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Quiz</string>
+    <string name="question_number">Question %1$d</string>
+    <string name="your_result">Your result: %1$d %%</string>
+    <string name="your_answer">Your answer:</string>
 </resources>
